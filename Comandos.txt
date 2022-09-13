@@ -1,0 +1,8 @@
+usuario: alejandromontero2022
+email: alejandro.montero.mt@usa.edu.co
+
+git status -s			revisa estado
+git add .			agrega el nuevo archivo
+git log				Usuario
+git commit -m "versionXXX"	Agrega una version al repositorio
+
